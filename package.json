@@ -2,7 +2,7 @@
   "name": "starbound-linter-json",
   "main": "./lib/init",
   "version": "0.0.0",
-  "description": "Linting, made for starbound json modding.",
+  "description": "Linting, made for starbound json moddding.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-linter-json",
   "dependencies": {
